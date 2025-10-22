@@ -8256,7 +8256,7 @@ A.bO(n,$.cQ(),!0)
 p=A.fn(new A.cq(n)).bG("groups").cu(a).bG("invites")
 o=$.b_E().QX()
 m=A
-l="https://jyunjung.github.io/budgetapp-web/#/invite/"+a+"/"
+l="https://budgettogether-573a9.web.app/invite/"+a+"/"
 k=B.b
 s=3
 return A.O(p.F(0,A.as(["invitedBy",b,"createdAt",new A.qJ(o,o),"status","pending"],t.N,t.z)),$async$aU2)
