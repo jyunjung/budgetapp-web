@@ -107817,8 +107817,7 @@ ahA(a){var s,r,q=null
 $.ad.toString
 s=A.e2($.bv().gE8(),0,q)
 r=(s.gEZ()?A.ey(q,q,"/",q,s.gzP(),q):s).j(0)
-if(r==="/")return a
-else return r}}
+return r}}
 A.ale.prototype={
 $2(a,b){return new A.qX(this.a,b,null)},
 $S:842}
@@ -119499,7 +119498,7 @@ r($,"bwS","c4",()=>$.b9f())
 r($,"bwc","aWc",()=>B.O_)
 s($,"bxv","b0i",()=>new A.atm())
 s($,"bwf","bbW",()=>{var q=null,p=A.a([A.aXA(new A.aT7(),"/invite/:groupId/:inviteId"),A.aXA(new A.aT8(),"/")],t.yo)
-return A.bge(!1,q,q,q,q,"/",q,q,q,!1,q,!0,q,!1,new A.a0I(new A.awA(p,A.bqn(),5)))})
+return A.bge(!1,q,q,q,q,q,q,q,q,!1,q,!0,q,!1,new A.a0I(new A.awA(p,A.bqn(),5)))})
 s($,"bwW","b06",()=>A.azx(new A.aTx(),t.Me,t.ie))
 s($,"bxa","b0b",()=>A.b0I(A.bpz(),t.hh,t.H))
 s($,"bxr","aWo",()=>A.azx(new A.aV5(),t.wj,t.ie))
